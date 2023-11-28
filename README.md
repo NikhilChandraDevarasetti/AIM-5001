@@ -1,4 +1,4 @@
 # AIM-5001
-DAM initial classwork
+DAM Assignment and Class Stuff
 
 I am testing Github Desktop.
